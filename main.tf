@@ -20,7 +20,7 @@ resource "aws_instance" "web" {
 
   tags {
     Identity = "hashiconf-c81e728d9d4c2f636f067f89cc14862c"
-    Owner    = "Erran Carey (e)"
+    Owner    = "Erran Carey (e) from R7"
   }
 }
 
